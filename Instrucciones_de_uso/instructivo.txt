@@ -1,0 +1,15 @@
+En el proyecto se crea una tienda easy, con todos sus sectores y cada sector con su asesor y encargado del mismo.
+La manera de probar y no tener errores en el proyecto es:
+1- Se crean solo las tablas//('atencion solo tablas sin los alter table')//, archivo/01.
+2- Se insetan los datos, archivo/02.
+3- Se alteran las tablas desde el script de creacion de tablas, archivo/03.
+4- Creacion de vistas, archivo/04.
+5- Creacion de funciones, archivo/05.
+6- Creacion de procedimientos, archivo/06.
+7- Creacion de triggers, archivo/07.
+8- Creacion Diagrama E-R , archivo/08.
+9- Creacion DCL, archivo/09.
+10- Backup (datos unicamente) del proyecto, archivo/10
+
+
+
